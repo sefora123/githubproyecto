@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 3,
+        "idMarca": 2,
+        "nombre": "ZAPATILLAS GALAXY 5",
+        "descripcion": "Horma clásica, Sistema de amarre de pasadores, Exterior de malla, Diseño liviano, Zapatillas de running transpirables, Plantilla OrthoLite® y forro interno textil, Mediasuela con amortiguación Cloudfoam y suela de caucho, Color del artículo: Grey Two / Iron Metallic / Screaming Orange",
+        "precio": 150,
+        "url": "producto8.png",
+        "destacado": 1,
+        "activo": 1
+    },
+    {
+        "id": 2,
+        "idCategoria": 7,
+        "idMarca": 2,
+        "nombre": "CASACA TÉRMICA DE INVIERNO BSC 3 TIRAS",
+        "descripcion": "Corte ajustado, Cierre frontal y cuello alto, Exterior: tejido plano 100 % poliéster reciclado, Acolchado: 90 % poliéster reciclado, 10 % poliéster, Bolsillos frontales con cierre, Puños elásticos, Cintura ajustable, Forro interno, Primegreen, Color del artículo: Grey",
+        "precio": 320,
+        "url": "producto1.png",
+        "destacado": 0,
+        "activo": 1
+    },
+    {
+        "id": 3,
+        "idCategoria": 7,
+        "idMarca": 2,
+        "nombre": "CASACA TÉRMICA TERREX MULTI PRIMEGREEN HYBRid",
+        "descripcion": "Corte clásico, Cierre frontal y capucha, Felpa 100 % poliéster reciclado, Mangas y torso: tejido antidesgarre 100 % poliéster reciclado Bolsillos laterales con cierre Puños y dobladillo elásticos Primegreen Color del artículo: Metallic Green",
+        "precio": 350,
+        "url": "producto2.png",
+        "destacado": 1,
+        "activo": 1
+    },
+    {
+        "id": 4,
+        "idCategoria": 7,
+        "idMarca": 2,
+        "nombre": "CASACA BÓMBER TÉRMICA ESSENTIALS",
+        "descripcion": "Corte clásico, Cierre frontal con cuello bomber, Exterior y forro interno: tejido plano 100 %, poliéster reciclado. Relleno: aislamiento, térmico sintético 100 g, Abrigo y comodidad, Casaca térmica, Bolsillos con cierre a presión, Puños y dobladillo elásticos, Esta prenda está hecha con Primegreen. Color del artículo: Black",
+        "precio": 280,
+        "url": "producto3.png",
+        "destacado": 0,
+        "activo": 1
+    },
+    {
+        "id": 5,
+        "idCategoria": 7,
+        "idMarca": 2,
+        "nombre": "CASACA DEPORTIVA CONDIVO 22",
+        "descripcion": "Corte ajustado, Cierre frontal y cuello alto acanalado, Tejido de punto doble 100 % poliéster reciclado, Tecnología de absorción AEROREADY, Bolsillos frontales con cierre Puños y dobladillo acanalados, Color del artículo: Black / White",
+        "precio": 240,
+        "url": "producto7.png",
+        "destacado": 1,
+        "activo": 1
+    },
+    {
+        "id": 6,
+        "idCategoria": 3,
+        "idMarca": 2,
+        "nombre": "ZAPATILLAS DURAMO SL",
+        "descripcion": "Horma clásica, Cierre de cordones, Parte superior de malla, Diseño ligero, zapatillas de running versátil, Mediasuela Lightmotion, Plantilla OrthoLite®, Suela de caucho, Color del artículo: Core Black / Cloud White / Grey Six",
+        "precio": 199,
+        "url": "producto5.png",
+        "destacado": 0,
+        "activo": 1
+    },
+    {
+        "id": 7,
+        "idCategoria": 5,
+        "idMarca": 2,
+        "nombre": "POLO AEROREADY DESIGNED TO MOVE SPORT",
+        "descripcion": "Corte clásico Cuello redondo Tejido calado 100 % poliéster reciclado, Absorbente, Mangas cortas, Costuras laterales en ángulo, Costuras en los hombros corridos hacia el frente para una mayor sensación de comodidad, Dobladillo trasro alargado, Primegreen, Color del artículo: Legend Ink / White",
+        "precio": 69,
+        "url": null,
+        "destacado": 0,
+        "activo": 1
+    },
+    {
+        "id": 8,
+        "idCategoria": 5,
+        "idMarca": 2,
+        "nombre": "POLO CITY BASE",
+        "descripcion": "Corte clásico Cuello redondo Tejido calado 100 % poliéster reciclado, Absorbente, Mangas cortas, Costuras laterales en ángulo, Costuras en los hombros corridos hacia el frente para una mayor sensación de comodidad, Dobladillo trasro alargado, Primegreen, Color del artículo: Legend Ink / White",
+        "precio": 95.5,
+        "url": null,
+        "destacado": 0,
+        "activo": 1
+    }
+]
